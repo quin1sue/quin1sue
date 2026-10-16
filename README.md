@@ -2,7 +2,7 @@
 
 <p data-importer="text" align="left">I started my journey learning C++ and expanded into modern software engineering using various frameworks and libraries. Alongside building applications, I'm actively exploring computer networking and penetration testing.</p>
  
- I am also a fullstack web developer in our school organization as a 3rd Student in [Pixel and Code Society](https://www.linkedin.com/in/pixel-and-code-society/)
+ I am also a fullstack web developer in our school organization as a 3rd year Student in [Pixel and Code Society](https://www.linkedin.com/in/pixel-and-code-society/)
 ###
 
 <div align="center">
